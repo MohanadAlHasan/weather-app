@@ -7,19 +7,19 @@ You can test the app from: https://mohanadalhasan.github.io/weather-app/
 
 ## Must have features:
  
- The weather information at least should show:
- Location name
- Time
- Weather condition
- Sample logo of weather
- Changeble temperature
+ ### The weather information at least should show:
+<li> Location name</li>
+<li> Time</li>
+ <li>Weather condition</li>
+<li> Sample logo of weather</li>
+<li>  Temperature</li>
 <ul>
-<li> 1- User can search about different locations.</li></ul>
- 2- Automatically give the user information about current location.
- 3- Background image change by the location or the city name.
-4- User can get more information by click on 'More details'.
+<li>  User can search about different locations.</li></ul>
+ <li> Automatically give the user information about current location.</li>
+ <li> Background image change by the location or the city name.</li>
+<li> User can get more information by click on 'More details'.</li>
 ## nice to have features:
-
- 1- User can see the weather information for next five days.
- 2- User can change the time to know the weather during the day.
- 3- User can present the data in different language.
+<ul>
+ <li> User can see the weather information for next five days.</li>
+ <li> User can change the time to know the weather during the day.</li>
+ <li> User can present the data in different language.</li></ul>
