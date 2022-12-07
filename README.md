@@ -13,8 +13,8 @@ You can test the app from: https://mohanadalhasan.github.io/weather-app/
  Weather condition
  Sample logo of weather
  Changeble temperature
-
- 1- User can search about different locations.
+<ul>
+<li> 1- User can search about different locations.</li></ul>
  2- Automatically give the user information about current location.
  3- Background image change by the location or the city name.
 4- User can get more information by click on 'More details'.
