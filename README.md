@@ -8,11 +8,12 @@ You can test the app from: https://mohanadalhasan.github.io/weather-app/
 
  
  ### The weather information at least should show:
+ <ul>
       <li> Location name</li>
       <li> Time</li>
       <li>Weather condition</li>
       <li> Sample logo of weather</li>
-     <li> Temperature</li>
+     <li> Temperature</li></ul>
      
 ## Must have features:
 <li>  User can search about different locations.</li>
