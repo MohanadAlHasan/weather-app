@@ -1,12 +1,10 @@
-import { detailsInfo } from "./views/detailsView.js";
-import { weatherInfo } from "./views/weatherView.js";
+import { detailsInfo } from "../views/detailsView.js";
+import { weatherInfo } from "../views/weatherView.js";
 import { background } from "./background.js";
 
-import { details } from "./constants.js";
-
-import { timeEl } from "../constants.js";
-import { dateEl } from "../constants.js";
-import { showError } from "./views/errorView.js";
+import { timeEl } from "./constants.js";
+import { dateEl } from "./constants.js";
+import { showError } from "../views/errorView.js";
 
 setInterval(() => {
   const time = new Date();
