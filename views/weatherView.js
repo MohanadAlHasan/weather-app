@@ -1,5 +1,5 @@
-import { weatherTem } from "../constants.js";
-import { details } from "../constants.js";
+import { weatherTem } from "../src/constants.js";
+import { details } from "../src/constants.js";
 export const weatherInfo = (data) => {
   weatherTem.innerHTML = "";
   weatherTem.innerHTML = String.raw`
