@@ -7,7 +7,7 @@ You can test the app from: https://mohanadalhasan.github.io/weather-app/
 
 
  
- #### The weather information at least should show:
+ ### The weather information at least should show:
       <li> Location name</li>
       <li> Time</li>
       <li>Weather condition</li>
@@ -15,7 +15,7 @@ You can test the app from: https://mohanadalhasan.github.io/weather-app/
      <li> Temperature</li>
      
 ## Must have features:
-<li>  User can search about different locations.</li></ul>
+<li>  User can search about different locations.</li>
  <li> Automatically give the user information about current location.</li>
  <li> Background image change by the location or the city name.</li>
 <li> User can get more information by click on 'More details'.</li>
